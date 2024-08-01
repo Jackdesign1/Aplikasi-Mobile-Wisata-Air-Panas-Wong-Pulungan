@@ -99,18 +99,18 @@
         </header>
         <div class="row m-5">
             <div class="col align-items-center text-center">
-                <img src="Images/icon_speaker.png">
+                <img src="Images/Icon_speaker.png">
                 <p><strong>native</strong></p>
                 <p><strong>Speaker</strong></p>
 
             </div>
             <div class="col align-items-center text-center">
-                <img src="Images/icon_rumah.png">
+                <img src="Images/Icon_rumah.png">
                 <p><strong>Lingkungan yang</strong></p>
                 <p><strong>Mendukung</strong></p>
             </div>
             <div class="col align-items-center text-center">
-                <img src="Images/icon_dunia.png">
+                <img src="Images/Icon_dunia.png">
                 <p><strong>Terdapat Kelas</strong></p>
                 <p><strong>Online (Daring)</strong></p>
             </div>
@@ -126,17 +126,17 @@
         </header>
         <div class="row text-center align-items-center text-bg-primary p-3">
             <div class="col">
-                <img src="Images/icon_panah.png">
+                <img src="Images/Icon_panah.png">
                 <p><strong>Tentukan Goal sebelum daftar brillian, </strong>pilih program yang sesuai dengan goal kamu
                     agar mendapatkan hasil yang maksimal. Ingat! Kamu gak bakal bisa tiba-tiba jago ngomong Inggris
                     dalam satu malam. Kami bukan pesulap.</p>
             </div>
             <div class="col">
-                <img src="Images/icon_bookmark.png">
+                <img src="Images/Icon_bookmark.png">
                 <p><strong>Pilih Program</strong>yang sesuai dengan goalmu. Pastikan</p>
             </div>
             <div class="col">
-                <img src="Images/icon_lokasi.png">
+                <img src="Images/Icon_lokasi.png">
                 <p><strong>Datang ke Brilliant English Course,</strong>ikuti aturan, pasti kamu pulang dengan hasil yang
                     memuaskan.</p>
             </div>
@@ -220,7 +220,7 @@
                     <p class="mb-0">info@khususbriliant.com</p>
                 </div>
                 <div class="col-12 col-md-3 text-center mb-2">
-                    <img src="Images/icon_Lokasi_Brilliant.png" alt="Location Icon" class="mb-2">
+                    <img src="Images/Icon_Lokasi_Brilliant.png" alt="Location Icon" class="mb-2">
                     <p class="mb-0">Jl. Flamboyan No.127B, Tulungrejo, Kec. Pare Kediri, Jawa Timur - INDONESIA</p>
                 </div>
             </div>
