@@ -1,16 +1,32 @@
-# aplikasi_wisata_air_panas_wong_pulungan
+# Aplikasi Mobile Wisata Air Panas Wong Pulungan
 
-A new Flutter project.
+Aplikasi ini dirancang untuk memudahkan wisatawan dalam mendapatkan informasi tentang wisata air panas Wong Pulungan. Aplikasi ini menyediakan berbagai fitur yang membantu pengguna dalam merencanakan kunjungan mereka dengan lebih baik.
 
-## Getting Started
+## 📌 Fitur Utama
+- **Informasi Destinasi**: Detail tentang lokasi, sejarah, dan fasilitas wisata air panas Wong Pulungan.
+- **Peta & Navigasi**: Terintegrasi dengan Google Maps untuk panduan arah.
+- **Galeri Foto**: Menampilkan gambar-gambar menarik dari tempat wisata.
+- **Harga Tiket & Jadwal**: Informasi terbaru mengenai harga tiket masuk dan jam operasional.
+- **Ulasan & Rating**: Wisatawan dapat membaca dan memberikan ulasan mengenai tempat wisata.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+- **Bahasa Pemrograman**: Kotlin
+- **Framework UI**: Jetpack Compose
+- **Database**: Firebase Realtime Database
+- **API**: Google Maps API
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Cara Instalasi & Menjalankan Aplikasi
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/Jackdesign1/Aplikasi-Mobile-Wisata-Air-Panas-Wong-Pulungan.git
+   ```
+2. Buka proyek di Android Studio.
+3. Pastikan dependencies sudah terinstall dengan benar.
+4. Jalankan aplikasi di emulator atau perangkat fisik.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📩 Kontribusi
+Kami terbuka untuk kontribusi! Jika Anda memiliki saran atau ingin menambahkan fitur baru, silakan buat pull request atau hubungi kami.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+⭐ Jangan lupa untuk memberikan bintang pada repositori ini jika menurut Anda bermanfaat!
